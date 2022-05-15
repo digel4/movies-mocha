@@ -24,7 +24,7 @@
     <a href="https://github.com/digel4/movies-mocha"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://movies-mocha.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/digel4/movies-mocha/issues">Report Bug</a>
     ·
@@ -114,5 +114,6 @@ Project Link: [https://github.com/digel4/movies-mocha](https://github.com/digel4
 [license-url]: https://github.com/digel4/movies-mocha/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/oliver-fox-uk/
-[product-screenshot]: https://user-images.githubusercontent.com/58178649/168480050-b34a1f13-dca4-4b06-b91b-295a773ef096.png
+[product-screenshot]: https://user-images.githubusercontent.com/58178649/168482992-5f5dab55-25fe-4262-89cb-c36be643fb26.png
+
 
