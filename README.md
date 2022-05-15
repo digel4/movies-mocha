@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/digel4/movies-mocha">
-    <img src="https://user-images.githubusercontent.com/58178649/168480230-40822781-ed22-45fd-96f6-8c99b4d80a72.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/58178649/168483193-86345261-3e8a-4c07-8feb-9429f98b3279.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Movie Fight with Mocha</h3>
